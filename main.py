@@ -1,4 +1,4 @@
-gifts = [1, 5.6, 1984, 'iphone', -2]
+gifts = [1, 5.6, 1984, 'iphone11', -2]
 for index in range(len(gifts)):
     print(type(gifts[index]))
 
